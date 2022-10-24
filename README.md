@@ -1,6 +1,6 @@
 ### Olá! eu sou o Welington Ferreira.
 
-🌱 atualmente estou estudando JavaScript
+🌱 atualmente estou estudando html, css e JavaScript
 
 <div align="center">
   <a href="https://github.com/welington3399">
